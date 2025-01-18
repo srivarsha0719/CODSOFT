@@ -10,7 +10,7 @@
   </head>
   <body>
     <header>
-      <h1>sri varsha</h1>
+      <h1>  sri varsha</h1>
       <p>Web Developer | Full Stack Developer</p>
     </header>
 
@@ -45,11 +45,11 @@
     </section>
     <section id="contact">
       <h2>Contact</h2>
-      <p>Email: srivarshakunisetti@gmail.com</p>
-      <p>Phone: 9999912345</p>
+      <p>Email:  srivarshakunisetti@gmail.com</p>
+      <p>Phone:  9999912345</p>
     </section>
     <footer>
-      <p>&copy; 2025 sri varsha. All rights reserved.</p>
+      <p>&copy;  2025 sri varsha. All rights reserved.</p>
     </footer>
   </body>
 </html>
